@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developement 
 - 🌱 I’m currently working on different web development projects
 - 💞️ I’m looking to collaborate people in different web developement projects
-- 📫 You can reach to me thriugh ashfaq25322@gmail.com
+- 📫 You can reach to me through ashfaq25322@gmail.com
 
 <!---
 ashfaqahmad7866/ashfaqahmad7866 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
