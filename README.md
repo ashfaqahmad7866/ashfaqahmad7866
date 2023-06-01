@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashfaqahmad7866
 - 👀 I’m interested in web developement 
-- 🌱 I’m currently working on different web development projects
-- 💞️ I’m looking to collaborate people in different web developement projects
+- 🌱 I’m currently working on different web development and mobile app development projects
+- 💞️ I’m looking to collaborate people in different web developement and mobile app development projects
 - 📫 You can reach to me through ashfaq25322@gmail.com
 
 <!---
